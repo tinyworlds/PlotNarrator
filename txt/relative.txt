@@ -1,0 +1,12 @@
+dog
+cat
+mother
+father
+grandfather
+grandmother
+brother
+son
+sister
+daughter
+friend
+mate

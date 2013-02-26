@@ -1,0 +1,17 @@
+house
+garden
+doghouse
+temple
+clock
+field
+farm
+tower
+building
+residence
+domicile
+place of birth
+home
+hovel
+hut
+flat
+flatlet
