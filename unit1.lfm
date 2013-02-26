@@ -1,0 +1,41 @@
+object Form1: TForm1
+  Left = 653
+  Height = 402
+  Top = 220
+  Width = 367
+  Caption = 'Plot Narrator'
+  ClientHeight = 402
+  ClientWidth = 367
+  LCLVersion = '1.0.6.0'
+  object Memo1: TMemo
+    Left = 8
+    Height = 344
+    Top = 8
+    Width = 352
+    Lines.Strings = (
+      'Please press on ''New Story'''
+    )
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 80
+    Height = 33
+    Top = 360
+    Width = 86
+    Caption = 'New Story'
+    OnClick = Button1Click
+    TabOrder = 1
+  end
+  object Button2: TButton
+    Left = 192
+    Height = 32
+    Top = 360
+    Width = 91
+    Caption = 'Save Story'
+    OnClick = Button2Click
+    TabOrder = 2
+  end
+  object SaveDialog1: TSaveDialog
+    top = 360
+  end
+end

@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1345796170"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -vewnhi &quot;-Fi/home/rick/Arbeitsfläche/Projekte/Informatik - Prozedurale Geschichten/proc_stories_n/lib/i386-linux&quot; -Fl/opt/gnome/lib -Fu/home/rick/.lazarus/lib/units/i386-linux/gtk2 -Fu/home/rick/.lazarus/lib/LCLBase/units/i386-linux -Fu/home/rick/.lazarus/lib/LazUtils/lib/i386-linux -Fu/home/rick/.lazarus/lib/units/i386-linux &quot;-Fu/home/rick/Arbeitsfläche/Projekte/Informatik - Prozedurale Geschichten/proc_stories_n/&quot; &quot;-FU/home/rick/Arbeitsfläche/Projekte/Informatik - Prozedurale Geschichten/proc_stories_n/lib/i386-linux/&quot; -l -dLCL -dLCLgtk2 project1.lpr"/>
+</CONFIG>
