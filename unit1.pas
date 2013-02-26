@@ -34,6 +34,9 @@ implementation
 
 {$R *.lfm}
 
+//PlotNarrator was created by Rick Hoppmann (kddekadenz)
+//for information on the license, see: https://creativecommons.org/licenses/by/3.0/
+
 //Funktion um Artikel zuzuweisen
 function Article (wrd:string) : string;
 Var hlp : string;
