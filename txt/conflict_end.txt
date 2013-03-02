@@ -1,2 +1,3 @@
 flee
 kill
+imprison

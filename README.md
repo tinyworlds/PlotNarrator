@@ -12,4 +12,3 @@ PlotNarrator is licensed under the terms of CC-BY 3.0: https://creativecommons.o
 Compiling
 ---------
 You need Lazarus to compile this application: http://www.lazarus.freepascal.org/
-Note: the comments in the source code are mostly written in German
